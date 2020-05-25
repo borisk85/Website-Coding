@@ -1,3 +1,4 @@
 # Website-Coding
 
-HTML,CSS, SASS, Bootstrap, JS, jQuery
+HTML, CSS, SASS, BEM, Bootstrap, JS, jQuery
+Responsive web designs
